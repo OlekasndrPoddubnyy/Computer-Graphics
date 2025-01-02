@@ -1,3 +1,3 @@
 # Computer Graphics
 
-Questo è il nostro progetto di Compute r Graphics
+Questo è il nostro progetto di Computer Graphics. Enjoy it!
